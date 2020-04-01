@@ -1,0 +1,9 @@
+a = "12345"
+b = "Ala ma kota"
+c = 2
+d = 5
+e = 3.5
+f = 2.71
+g = 2j + 9
+h = 2 - 3j
+print(a, b, c, d, e, f, g, h, sep="\n")
